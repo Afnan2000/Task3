@@ -1,0 +1,4 @@
+temperature, humidity, wind speed, time, location 
+15,80,30,12:10,blanchardstown
+17,82,64,15:29,sandyford
+24,88,54,16:17,lucan
